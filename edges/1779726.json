@@ -1,1 +1,1 @@
-{"name": "قذائف", "id": 1779726, "predecessors": [{"name": "بالستيات", "id": 2220719}, {"name": "ذخيرة", "id": 400708}], "successors": []}
+{"name": "قذائف", "id": 1779726, "predecessors": [{"name": "ذخيرة", "id": 400708}, {"name": "أسلحة_نارية", "id": 301737}], "successors": []}
